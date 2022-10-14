@@ -1,0 +1,20 @@
+Following Stocks meets the selection Criteria as at 10/14/2022 : 
+
+NTB : 
+✅ Closing Price is 49.0 
+✅ 20 day mov avg : 46.44 and 50 day mov avg : 40.21
+✅ 52 Week High :58.829689025879
+✅ Closing price is 5 % higher/lower than the 20 day mov avg 
+
+SLTL : 
+✅ Closing Price is 67.0 
+✅ 20 day mov avg : 47.59 and 50 day mov avg : 45.98
+✅ 52 Week High :70.0
+✅ Closing price is 28 % higher/lower than the 20 day mov avg 
+
+LOLD : 
+✅ Closing Price is 515.0 
+✅ 20 day mov avg : 467.73 and 50 day mov avg : 357.98
+✅ 52 Week High :515.0
+✅ Closing price is 9 % higher/lower than the 20 day mov avg 
+
