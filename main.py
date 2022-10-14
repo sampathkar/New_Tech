@@ -117,3 +117,4 @@ time.sleep(10)
 print("\nall_shares_list3 completed")
 share_criteria(all_shares_list4)
 print("\nall_shares_list4 completed")
+
